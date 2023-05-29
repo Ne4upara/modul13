@@ -4,10 +4,8 @@ import ua.goit.sergey.modul13.todo.Address;
 import ua.goit.sergey.modul13.todo.Company;
 import ua.goit.sergey.modul13.todo.Geo;
 import ua.goit.sergey.modul13.todo.User;
-
-import java.awt.*;
 import java.io.IOException;
-import java.net.URI;
+
 
 public class HttpTest {
 
